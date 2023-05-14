@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/mo528/CLionProjects/Sctions/oopagine/Movie-Mangement-System/cmake-build-debug"
+			"value" : "c:/Users/mo528/CLionProjects/Sctions/Operator_Overloading/Movie-Mangement-System/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/mo528/CLionProjects/Sctions/oopagine/Movie-Mangement-System/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/mo528/CLionProjects/Sctions/Operator_Overloading/Movie-Mangement-System/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/mo528/CLionProjects/Sctions/oopagine/Movie-Mangement-System"
+			"value" : "C:/Users/mo528/CLionProjects/Sctions/Operator_Overloading/Movie-Mangement-System"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/mo528/CLionProjects/Sctions/oopagine/Movie-Mangement-System/cmake-build-debug"
+			"value" : "C:/Users/mo528/CLionProjects/Sctions/Operator_Overloading/Movie-Mangement-System/cmake-build-debug"
 		},
 		{
 			"name" : "UniversitySystem_IS_TOP_LEVEL",
@@ -1287,7 +1287,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/mo528/CLionProjects/Sctions/oopagine/Movie-Mangement-System"
+			"value" : "C:/Users/mo528/CLionProjects/Sctions/Operator_Overloading/Movie-Mangement-System"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

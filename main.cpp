@@ -130,6 +130,6 @@ void credits(){
         "Project Name: Movie Management System\n"
         "GitHub: https://github.com/MostafaOsmanFathi\n"
         "Project GitHub repository link:\n"
-        "Codefocrcess: https://codeforces.com/profile/Mostafa_Osman24"<<endl;
-
+        "Codefocrcess: https://codeforces.com/profile/Mostafa_Osman24\n"
+        "i want to know you opinion so you can at any time send me at the E-mail and i will answer at the nearest time"<<endl;
 }
